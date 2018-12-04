@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContactBook</string>
+    <string name="hintTxtItem">Enter Name Here</string>
+    <string name="hintTxtItem1">Enter Phone Here</string>
+
+    <string name="lblBtnAdd">Add Item</string>
+
+    <string name="lblBtnDel">Delete Selected Items</string>
+</resources>
